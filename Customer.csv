@@ -1,0 +1,16 @@
+IdCustomer,Name,Age,Gender,City,Region,State,StoreBuyHistory
+1002,Rosa,21,Female,New York ,East   ,Usa,FurnitureB
+1006,Eva,25,Female,Los Angeles,West,Usa,FurnitureA
+1007,Nafesha,22,Female,Chicago,South ,Usa,FurnitureC
+1005,Via,23,Female, Houston,West,Usa,FurnitureD
+1003,Bias,21,Female,San Jose,Midwest,Usa,FurnitureE
+1001,Fitri,30,Female, Phoenix,East   ,Usa,FurnitureA
+1004,Helena,27,Female,Atlanta,South ,Usa,FurnitureB
+1010,Abigail,21,Male,Seattle,West,Usa,FurnitureC
+1008,Eko,32,Male,Boston ,Midwest,Usa,FurnitureD
+1009,Reno,25,Male,Denver,East   ,Usa,FurnitureE
+1011,Rakha,27,Male,Dallas,South ,Usa,FurnitureA
+1015,Ilham,31,Male,Miami,West,Usa,FurnitureB
+1012,Yonathan,39,Male,San Diago,Midwest,Usa,FurnitureC
+1014,NamYoon,23,Male,San Jose ,East   ,Usa,FurnitureD
+1013,Suho,25,Male,Detroit,Midwest,Usa,FurnitureE

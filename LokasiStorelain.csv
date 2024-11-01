@@ -1,0 +1,16 @@
+IDLokasi,Nama Cabang,Kota,Alamat,Postal Code,FurnitureAvailable
+4002,FurnitureB,jakarta," Jl. Sudirman No. 123, Jakarta ",11010,Meja Makan
+4008,FurnitureA,Tanggerang,"Jl. Boulveard Raya No. 245, Tangerang",10401,Kursi makan
+4005,FurnitureC,Bogor,"Jl. Utama Kencana No. 456, Bogor",16110,Rak Sepatu
+4001,FurnitureD,Bekasi,"Jl. Boulevard Ahmad Yani No. 498, Bekasi",13175,Lemari Baju
+4003,FurnitureE,Depok,"Jl. Margo City No. 987, Depok",10550,Sofa 
+4007,FurnitureA,Tanggerang,"Jl. Boulveard Raya No. 245, Tangerang",10401,Tempat Tidur
+4009,FurnitureB,jakarta," Jl. Sudirman No. 123, Jakarta ",11010,Rak Buku
+4015,FurnitureC,Bogor,"Jl. Utama Kencana No. 456, Bogor",16110,Meja Rias
+4004,FurnitureD,Bekasi,"Jl. Boulevard Ahmad Yani No. 498, Bekasi",13175,Kabinet Dapur
+4011,FurnitureE,Depok,"Jl. Margo City No. 987, Depok",10550,Kursi belajar
+4013,FurnitureA,Tanggerang,"Jl. Boulveard Raya No. 245, Tangerang",10401,Meja Belajar
+4012,FurnitureB,jakarta," Jl. Sudirman No. 123, Jakarta ",11010,Sofa Bed
+4010,FurnitureC,Bogor,"Jl. Utama Kencana No. 456, Bogor",16110,Meja Kerja 
+4006,FurnitureD,Bekasi,"Jl. Boulevard Ahmad Yani No. 498, Bekasi",13175,Kasur Busa
+4014,FurnitureE,Depok,"Jl. Margo City No. 987, Depok",10550,Kabinet TV

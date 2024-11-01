@@ -1,0 +1,16 @@
+IdFurniture,NamaFurniture,Type,Category,Material,Color,Price,StoreFurniture
+2003,Meja Makan,A,Klasik,Kayu Solid,coklat,"300,000",FurnitureB
+2001,Kursi makan,C,Minimalis,Plastik,Pink,"250,000",FurnitureA
+2005,Rak Sepatu,B,Modern,Kayu Solid,Putih,"150,000",FurnitureC
+2007,Lemari Baju,C,Retro,MDF,Hitam,"300,000",FurnitureD
+2010,Sofa ,A,Modern,Kulit,Biru,"400,000",FurnitureE
+2002,Tempat Tidur,A,Vintage,Fabric Bed,Abu Abu,"400,000",FurnitureA
+2006,Rak Buku,B,Klasik,Kayu Solid,coklat,"250,000",FurnitureB
+2004,Meja Rias,A,Retro,Bambu,Hijau,"250,000",FurnitureC
+2011,Kabinet Dapur,A,Modern,Kayu Solid,Putih,"300,000",FurnitureD
+2008,Kursi belajar,C,Minimalis,Kayu Solid,coklat,"150,000",FurnitureE
+2009,Meja Belajar,A,Minimalis,Plastik,Pink,"250,000",FurnitureA
+2013,Sofa Bed,B,Modern,Kulit,Biru,"400,000",FurnitureB
+2015,Meja Kerja ,C,Vintage,Kayu Solid,Hitam,"250,000",FurnitureC
+2012,Kasur Busa,A,Minimalis,Fabric Bed,Biru,"300,000",FurnitureD
+2014,Kabinet TV,A,Klasik,Kayu Solid,coklat,"300,000",FurnitureE

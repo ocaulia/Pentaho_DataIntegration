@@ -1,0 +1,16 @@
+<Schema name="New Schema1">
+  <Cube name="FactTable" visible="true" cache="true" enabled="true">
+    <Table name="FactTable">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="IDTransaksi" name="DIM_Transaksi">
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="IdCustomer" name="DIM_Customer">
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="idTime" name="DIM_Time">
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="IdFurniture" name="DIM_furniture">
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="IDLokasi" name="DIM_Lokasi">
+    </Dimension>
+  </Cube>
+</Schema>
